@@ -3,8 +3,7 @@
 
 Hello world
 
-<<<<<<< HEAD
-Main branch
-=======
+Main branch 
+
 Development Branch
->>>>>>> development
+
